@@ -5,7 +5,7 @@
  
  // Connecting to DataBase 
  include('core/config.php'); 
-?>;
+?>
 
 <!DOCTYPE html>
 <html>
