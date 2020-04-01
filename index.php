@@ -2,7 +2,7 @@
 
   // Starting the TO-KTR session
   session_start();
-
+ 
  // Connecting to DataBase 
  include('core/config.php'); 
 ?>;

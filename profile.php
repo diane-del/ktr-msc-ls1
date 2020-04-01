@@ -31,6 +31,10 @@
 		    <label for="phoneNumber">Phone number</label>
 		    <input type="phone" class="form-control" id="usr_phone_number" aria-describedby="Phone" placeholder="Type your Phone number...">
 		  </div>
+		  <div class="form-group">
+		    <label for="usrPassword">Password</label>
+		    <input type="password" class="form-control" id="usr_password" aria-describedby="Password" placeholder="Type your Password...">
+		  </div>
 		  <button type="submit" class="btn btn-primary">Submit</button>
 		</form>
 	</div>
